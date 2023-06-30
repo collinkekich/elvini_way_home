@@ -1,0 +1,41 @@
+{
+	"color": "#ffd552fa",
+	"description": "Главный герой истории",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1688109575.json",
+	"mirror_portraits": false,
+	"name": "Эльвини",
+	"nickname": "Эльвина, Шлюха",
+	"nickname_bool": true,
+	"offset_x": 0,
+	"offset_y": -150,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://resource/characters/elvini/elvini_idle.png"
+		},
+		{
+			"name": "angry",
+			"path": "res://resource/characters/elvini/elvini_angry.png"
+		},
+		{
+			"name": "blush",
+			"path": "res://resource/characters/elvini/elvini_blush.png"
+		},
+		{
+			"name": "happy",
+			"path": "res://resource/characters/elvini/elvini_happy.png"
+		},
+		{
+			"name": "super_happy",
+			"path": "res://resource/characters/elvini/elvini_super_happy.png"
+		},
+		{
+			"name": "sad",
+			"path": "res://resource/characters/elvini/elvini_sad.png"
+		}
+	],
+	"scale": 60,
+	"theme": "default-theme.cfg"
+}

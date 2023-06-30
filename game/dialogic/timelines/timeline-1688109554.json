@@ -1,0 +1,823 @@
+{
+	"events": [
+		{
+			"background": "res://resource/bg/1_bus_stop-min.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "character-1688112679.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ты точно сможешь уехать домой?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Парень переспросил её еще раз, его автобус в Зеленку уже подъезжал, и парень хотел поскорее уйти с неудачного свидания."
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Да уеду я, уеду, не беспокойся."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Эльвини тоже хотелось наконец избавиться от этого скучного нормиса. Да и в постели он был одно разочарование. Его хуй был маловат даже для крохотных ручек Эльвини."
+		},
+		{
+			"background": "res://resource/bg/2_street-min.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 1.2,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "«Обидно, а ведь он был так похож на моего любимого фигуриста»."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 1.2,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Вскоре она осталась одна. Время было позднее, темнело, и на самом деле Эльвини не знала, ходят ли маршруты до ее дома в это время.\nНа секунду проскользнула мысль поехать на такси, но рабыня Аллаха отмахнулась от нее так же, как и от парня несколькими минутами ранее.\nОна и так слишком много денег потратила на это ужасное свидание.\nСпустя несколько минут ей надоело ждать, и Эльвини пошла домой пешком.\nСудя по карте идти было около часа через парк и частные дома. Не так уж и много, если подумать."
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Направо, налево, ага, тут за следующим домом прямо.\""
+		},
+		{
+			"background": "res://resource/bg/3_meeting-min.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Девушка уверенно пробиралась по ночной Уфе. Но за очередным домом ее ждал сюрприз.\nОна не сразу узнала в темном высоком силуэте своего \"друга\".."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "blush",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Руслан?"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Эльвина?"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Они обнялись и присели на ближайшую лавочку."
+		},
+		{
+			"background": "res://resource/bg/4_fence-min.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ты что тут делаешь? В командировку вызвали?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Рабыне Аллаха было любопытно, что тут делает ее знакомый из Пакистана."
+		},
+		{
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Да понимаешь, есть тут одна тян. Я уж думал, та самая — худенькая чурочка с горбатым носом, единственная, которая мне понравится, даже прилетел сюда ради нее."
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "angry",
+			"text": "А, так вот почему ты не отвечал!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "В голосе Эльвини явно почувствовались нотки обиды и приниженного достоинства."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Руслан растеряно пожал плечами и продолжил."
+		},
+		{
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_001",
+			"portrait": "angry",
+			"text": " А оказалось... Тьфу! Как всегда. Зря мотался."
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "sad",
+			"text": "Такая же ситуация..."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Эльвини понимала его как никогда."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ей безумно захотелось утешить друга, вместо привычного \"-Хахаха, ну ты и лох, мудак, чурка ебаная, мать твоя шлюха и отец пидарас, ебала твою сестру через прогиб в три хуя через грибницу\"."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "blush",
+			"text": "\"Хмм, а может...\""
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "angry",
+			"text": "\"...Нет! Я не такая! Нет!\""
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "sad",
+			"text": "\"Зря я выпила две банки Аморе.\""
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "blush",
+			"text": "\"Но я же...\""
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "super_happy",
+			"text": "\"Ладно.\""
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "blush",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"background": "res://resource/bg/allah_censor.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Эльвини приложила свою микроладошку к штанам Руслана. Он ничего не сказал.\nОна не убрала руку и начала поглаживать, надеясь, что все делает правильно.\nВскоре его руки оказались на ней, мягко лаская спину и небольшую грудь, которая в сегодняшнем наряде — кружевном топике и футболке-сеточке — смотрелась просто шикарно.\nЭльвини оглянулась, проверяя, нет ли людей рядом. Никого, в этом районе ночью делать особо нечего.\nВоспользовавшись этим, Руслан наклонился поближе и начал целовать ее уши и шею, опаляя нежную кожу горячим казахским дыханием.\nЭльвини почувствовала жар внизу живота и влагу между маленьких ножек.\nВскоре кожаные брюки стали неприятно давить на достоинство Руслана, и девушка довольно быстро поняла, что это нужно исправить. \nПару секунд она повозилась с пуговицей и ширинкой, а затем увидела его хуй во всей красе."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Хорошая девочка, а теперь поработай руками. И ротиком, если сможешь."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Для удобства он рукой осторожно собрал непослушные кудрявые локоны подруги. Эльвини неуверенно провела рукой по всей длине.\nЕго красный богатырь был намного больше, чем она представляла в своих грязных фантазиях. Ей даже пришлось обхватить его двумя руками, а уж в рот он тем более не помещался.\nБедняжке оставалось лишь облизывать его как фруктовое мороженое.\nСпустя еще несколько минут Руслан внезапно встал и своими мощными руками поставил Эльвини перед собой на лавочку. Она заскрипела. \n Одним движением он снял с нее джинсы. Под ними не было ничего, что удивило Руслана.Он был совсем другого мнения о своей подруге. "
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "angry",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Шлюха!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Громко ругнувшись, он шлепнул ее по ягодице. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "И еще!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "И еще!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Эльвини сначала вздрогнула от легкого жжения на коже, но вскоре вошла во вкус, подмахивая бедрами и постанывая."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Руслан провел рукой между ног девушки, да так, что та от  аж замерла. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Парень решил не церемониться и вставил сразу три пальца."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Эльвини вскрикнула, ножки раздвинулись сами собой, как будто бы приглашая Пакистанца на чаепитие."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "blush",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Какая же ты мокрая!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Раздалось еще несколько шлепков.\nВдруг она ощутила, как его гигантский хуй скользил между ее красных маковых булочек. "
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "sad",
+			"text": "\"А он меня не порвет?\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Эльвини забеспокоилась, но не подала виду."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Внезапно одним рывком он ворвался внутрь.\nУ Эльвини перед глазами все побелело, полетели звездочки. Ее крик пронесся по ночной улице. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Она перестала дышать. Ей было больно и приятно от заполненности внутри, хотя хуй вошел даже меньше чем наполовину."
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=30 freq=14]С-с-сколь-Ай-ко...?[/wave]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Она еле выговаривала слова. Руслан не прекращал движений, входя \nи выходя с новой силой."
+		},
+		{
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Утыз биш."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Раздался довольный голос Руслана, перешедшего на свой родной пакистанский, но все еще продолжающего неистово рвать киску Эльвини."
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Трид-д-дцать пя-[wave amp=30 freq=14]ааа[/wave]-ать!\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " Эльвини было тяжело думать, хотя она сразу осознала забугорный язык. Значит недаром рабыня Аллаха."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Она со всем вожделением насаживалась на хуй, ее ногти скребли по скамейке а стоны не прекращались. Именно о такой скамейке она мечтала весь день."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Спустя час все закончилось. Остатки богатырского семяизвержения медленно вытекали из Эльвини. "
+		},
+		{
+			"background": "res://resource/bg/5_sunset-min.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Руслан задумчиво курил свой подик со вкусом кебаба, поглядывая на то, что осталось от ой как давно закатившегося солнца. \nНе в состоянии унять судороги, девушка кое-как вытерлась и натянула штаны."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "happy",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "А может и не зря приехал."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "sad",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=30 freq=14]Д-д-да..[/wave] "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Девушке удалось унять дрожь в голосе."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "happy",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Приятно было увидеться вживую."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1688112657.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1688109575.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "blush",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Они пожали друг другу руки и разошлись. Эльвини еще надо было дойти до дома на трясущихся ногах с синяками на коленках, но с чувством приятной усталости."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1688109554.json",
+		"name": "intro"
+	}
+}

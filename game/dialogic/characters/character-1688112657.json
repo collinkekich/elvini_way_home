@@ -1,0 +1,33 @@
+{
+	"color": "#ff62c0ff",
+	"description": "Друг Эльвини",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1688112657.json",
+	"mirror_portraits": false,
+	"name": "Руслан",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": -150,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://resource/characters/ruslan/ruslan_idle.png"
+		},
+		{
+			"name": "angry",
+			"path": "res://resource/characters/ruslan/ruslan_angry.png"
+		},
+		{
+			"name": "blush",
+			"path": "res://resource/characters/ruslan/ruslan_blush.png"
+		},
+		{
+			"name": "happy",
+			"path": "res://resource/characters/ruslan/ruslan_happy.png"
+		}
+	],
+	"scale": 60,
+	"theme": ""
+}
